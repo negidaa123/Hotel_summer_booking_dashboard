@@ -1,1 +1,1 @@
-# Hotel_summer_booking_dashboard
+the dashbaord is basically hotel booking dashboard. the dashboard is providing us data of total revenue genrate and total revenue loss on summer month. it is giving detail of high cancelation day in weel and also cancelation percentage between 1 to 30 dats or after days.
